@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27137076</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>05</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>05</Month>
+            <Day>31</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1875-5992</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Anti-cancer agents in medicinal chemistry</Title>
+                <ISOAbbreviation>Anticancer Agents Med Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Breast Cancer: Current Molecular Therapeutic Targets and New Players.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>152-163</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Breast cancer is the most common cancer and the most frequent cause of cancer death among women worldwide. Breast cancer is a complex, heterogeneous disease classified into hormone-receptor-positive, human epidermal growth factor receptor-2 overexpressing (HER2+) and triple-negative breast cancer (TNBC) based on histological features. Endocrine therapy, the mainstay of treatment for hormone-responsive breast cancer involves use of selective estrogen receptor modulators (SERMs), selective estrogen receptor downregulators (SERDs) and aromatase inhibitors (AIs). Agents that target estrogen receptor (ER) and HER2 such as tamoxifen and trastuzumab have been the most extensively used therapeutics for breast cancer. Crosstalk between ER and other signalling networks as well as epigenetic mechanisms have been envisaged to contribute to endocrine therapy resistance. TNBC, a complex, heterogeneous, aggressive form of breast cancer in which the cells do not express ER, progesterone receptor or HER2 is refractory to therapy. Several molecular targets are being explored to target TNBC including androgen receptor, epidermal growth factor receptor (EGFR), poly(ADP-ribose) polymerase (PARP), and vascular endothelial growth factor (VEGF). Receptors, protein tyrosine kinases, phosphatases, proteases, PI3K/Akt signalling pathway, microRNAs (miRs) and long noncoding RNAs (lncRNAs) are potential therapeutic targets. miR-based therapeutic approaches include inhibition of oncomiRs by antisense oligonucleotides, restoration of tumour suppressors using miR mimics, and chemical modification of miRs. The lnRNAs HOTAIR, SPRY4-IT1, GAS5, and PANDAR, new players in tumour development and prognosis may have theranostic applications in breast cancer. Several novel classes of mechanism-based drugs have been designed and synthesised for treatment of breast cancer. Integration of nucleic acid sequencing studies with mass spectrometry-based peptide sequencing and posttranslational modifications as well as rational drug design will provide a more comprehensive understanding of the pathophysiology of breast cancer and help in evolving therapeutic strategies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nagini</LastName>
+                    <ForeName>Siddavaram</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Biotechnology, Faculty of Science, Annamalai University, Annamalainagar- 608 002, Tamil Nadu,India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Anticancer Agents Med Chem</MedlineTA>
+            <NlmUniqueID>101265649</NlmUniqueID>
+            <ISSNLinking>1871-5206</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D062085">RNA, Long Noncoding</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000970" MajorTopicYN="N">Antineoplastic Agents</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001940" MajorTopicYN="N">Breast</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001943" MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015972" MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058990" MajorTopicYN="Y">Molecular Targeted Therapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D062085" MajorTopicYN="N">RNA, Long Noncoding</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D064726" MajorTopicYN="N">Triple Negative Breast Neoplasms</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>04</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27137076</ArticleId>
+            <ArticleId IdType="pii">ACAMC-EPUB-75294</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

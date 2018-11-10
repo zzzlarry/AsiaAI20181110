@@ -1,0 +1,100 @@
+hgnc_id,Type,symbol,name,entrez_id,ensembl_gene_id
+HGNC:5,gene,A1BG,alpha-1-B glycoprotein,1,ENSG00000121410
+HGNC:24086,gene,A1CF,APOBEC1 complementation factor,29974,ENSG00000148584
+HGNC:7,gene,A2M,alpha-2-macroglobulin,2,ENSG00000175899
+HGNC:23336,gene,A2ML1,alpha-2-macroglobulin like 1,144568,ENSG00000166535
+HGNC:30005,gene,A3GALT2,"alpha 1,3-galactosyltransferase 2",127550,ENSG00000184389
+HGNC:18149,gene,A4GALT,"alpha 1,4-galactosyltransferase (P blood group)",53947,ENSG00000128274
+HGNC:17968,gene,A4GNT,"alpha-1,4-N-acetylglucosaminyltransferase",51146,ENSG00000118017
+HGNC:13666,gene,AAAS,aladin WD repeat nucleoporin,8086,ENSG00000094914
+HGNC:21298,gene,AACS,acetoacetyl-CoA synthetase,65985,ENSG00000081760
+HGNC:17,gene,AADAC,arylacetamide deacetylase,13,ENSG00000114771
+HGNC:24427,gene,AADACL2,arylacetamide deacetylase like 2,344752,ENSG00000197953
+HGNC:32037,gene,AADACL3,arylacetamide deacetylase like 3,126767,ENSG00000188984
+HGNC:32038,gene,AADACL4,arylacetamide deacetylase like 4,343066,ENSG00000204518
+HGNC:17929,gene,AADAT,aminoadipate aminotransferase,51166,ENSG00000109576
+HGNC:25662,gene,AAGAB,alpha and gamma adaptin binding protein,79719,ENSG00000103591
+HGNC:19679,gene,AAK1,AP2 associated kinase 1,22848,ENSG00000115977
+HGNC:30205,gene,AAMDC,adipogenesis associated Mth938 domain containing,28971,ENSG00000087884
+HGNC:18,gene,AAMP,angio associated migratory cell protein,14,ENSG00000127837
+HGNC:19,gene,AANAT,aralkylamine N-acetyltransferase,15,ENSG00000129673
+HGNC:15886,gene,AAR2,AAR2 splicing factor homolog,25980,ENSG00000131043
+HGNC:33842,gene,AARD,alanine and arginine rich domain containing protein,441376,ENSG00000205002
+HGNC:20,gene,AARS,alanyl-tRNA synthetase,16,ENSG00000090861
+HGNC:21022,gene,AARS2,"alanyl-tRNA synthetase 2, mitochondrial",57505,ENSG00000124608
+HGNC:28417,gene,AARSD1,alanyl-tRNA synthetase domain containing 1,80755,ENSG00000266967
+HGNC:23993,gene,AASDH,aminoadipate-semialdehyde dehydrogenase,132949,ENSG00000157426
+HGNC:14235,gene,AASDHPPT,aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase,60496,ENSG00000149313
+HGNC:17366,gene,AASS,aminoadipate-semialdehyde synthase,10157,ENSG00000008311
+HGNC:19235,gene,AATF,apoptosis antagonizing transcription factor,26574,ENSG00000275700
+HGNC:21,gene,AATK,apoptosis associated tyrosine kinase,9625,ENSG00000181409
+HGNC:23,gene,ABAT,4-aminobutyrate aminotransferase,18,ENSG00000183044
+HGNC:29,gene,ABCA1,ATP binding cassette subfamily A member 1,19,ENSG00000165029
+HGNC:32,gene,ABCA2,ATP binding cassette subfamily A member 2,20,ENSG00000107331
+HGNC:33,gene,ABCA3,ATP binding cassette subfamily A member 3,21,ENSG00000167972
+HGNC:34,gene,ABCA4,ATP binding cassette subfamily A member 4,24,ENSG00000198691
+HGNC:35,gene,ABCA5,ATP binding cassette subfamily A member 5,23461,ENSG00000154265
+HGNC:36,gene,ABCA6,ATP binding cassette subfamily A member 6,23460,ENSG00000154262
+HGNC:37,gene,ABCA7,ATP binding cassette subfamily A member 7,10347,ENSG00000064687
+HGNC:38,gene,ABCA8,ATP binding cassette subfamily A member 8,10351,ENSG00000141338
+HGNC:39,gene,ABCA9,ATP binding cassette subfamily A member 9,10350,ENSG00000154258
+HGNC:30,gene,ABCA10,ATP binding cassette subfamily A member 10,10349,ENSG00000154263
+HGNC:14637,gene,ABCA12,ATP binding cassette subfamily A member 12,26154,ENSG00000144452
+HGNC:14638,gene,ABCA13,ATP binding cassette subfamily A member 13,154664,ENSG00000179869
+HGNC:40,gene,ABCB1,ATP binding cassette subfamily B member 1,5243,ENSG00000085563
+HGNC:45,gene,ABCB4,ATP binding cassette subfamily B member 4,5244,ENSG00000005471
+HGNC:46,gene,ABCB5,ATP binding cassette subfamily B member 5,340273,ENSG00000004846
+HGNC:47,gene,ABCB6,ATP binding cassette subfamily B member 6 (Langereis blood group),10058,ENSG00000115657
+HGNC:48,gene,ABCB7,ATP binding cassette subfamily B member 7,22,ENSG00000131269
+HGNC:49,gene,ABCB8,ATP binding cassette subfamily B member 8,11194,ENSG00000197150
+HGNC:50,gene,ABCB9,ATP binding cassette subfamily B member 9,23457,ENSG00000150967
+HGNC:41,gene,ABCB10,ATP binding cassette subfamily B member 10,23456,ENSG00000135776
+HGNC:42,gene,ABCB11,ATP binding cassette subfamily B member 11,8647,ENSG00000073734
+HGNC:51,gene,ABCC1,ATP binding cassette subfamily C member 1,4363,ENSG00000103222
+HGNC:53,gene,ABCC2,ATP binding cassette subfamily C member 2,1244,ENSG00000023839
+HGNC:54,gene,ABCC3,ATP binding cassette subfamily C member 3,8714,ENSG00000108846
+HGNC:55,gene,ABCC4,ATP binding cassette subfamily C member 4,10257,ENSG00000125257
+HGNC:56,gene,ABCC5,ATP binding cassette subfamily C member 5,10057,ENSG00000114770
+HGNC:57,gene,ABCC6,ATP binding cassette subfamily C member 6,368,ENSG00000091262
+HGNC:59,gene,ABCC8,ATP binding cassette subfamily C member 8,6833,ENSG00000006071
+HGNC:60,gene,ABCC9,ATP binding cassette subfamily C member 9,10060,ENSG00000069431
+HGNC:52,gene,ABCC10,ATP binding cassette subfamily C member 10,89845,ENSG00000124574
+HGNC:14639,gene,ABCC11,ATP binding cassette subfamily C member 11,85320,ENSG00000121270
+HGNC:14640,gene,ABCC12,ATP binding cassette subfamily C member 12,94160,ENSG00000140798
+HGNC:61,gene,ABCD1,ATP binding cassette subfamily D member 1,215,ENSG00000101986
+HGNC:66,gene,ABCD2,ATP binding cassette subfamily D member 2,225,ENSG00000173208
+HGNC:67,gene,ABCD3,ATP binding cassette subfamily D member 3,5825,ENSG00000117528
+HGNC:68,gene,ABCD4,ATP binding cassette subfamily D member 4,5826,ENSG00000119688
+HGNC:69,gene,ABCE1,ATP binding cassette subfamily E member 1,6059,ENSG00000164163
+HGNC:70,gene,ABCF1,ATP binding cassette subfamily F member 1,23,ENSG00000204574
+HGNC:71,gene,ABCF2,ATP binding cassette subfamily F member 2,10061,ENSG00000033050
+HGNC:72,gene,ABCF3,ATP binding cassette subfamily F member 3,55324,ENSG00000161204
+HGNC:73,gene,ABCG1,ATP binding cassette subfamily G member 1,9619,ENSG00000160179
+HGNC:74,gene,ABCG2,ATP binding cassette subfamily G member 2 (Junior blood group),9429,ENSG00000118777
+HGNC:13884,gene,ABCG4,ATP binding cassette subfamily G member 4,64137,ENSG00000172350
+HGNC:13886,gene,ABCG5,ATP binding cassette subfamily G member 5,64240,ENSG00000138075
+HGNC:13887,gene,ABCG8,ATP binding cassette subfamily G member 8,64241,ENSG00000143921
+HGNC:17553,gene,ABHD1,abhydrolase domain containing 1,84696,ENSG00000143994
+HGNC:18717,gene,ABHD2,abhydrolase domain containing 2,11057,ENSG00000140526
+HGNC:18718,gene,ABHD3,abhydrolase domain containing 3,171586,ENSG00000158201
+HGNC:20154,gene,ABHD4,abhydrolase domain containing 4,63874,ENSG00000100439
+HGNC:21396,gene,ABHD5,abhydrolase domain containing 5,51099,ENSG00000011198
+HGNC:21398,gene,ABHD6,abhydrolase domain containing 6,57406,ENSG00000163686
+HGNC:23759,gene,ABHD8,abhydrolase domain containing 8,79575,ENSG00000127220
+HGNC:25656,gene,ABHD10,abhydrolase domain containing 10,55347,ENSG00000144827
+HGNC:16407,gene,ABHD11,abhydrolase domain containing 11,83451,ENSG00000106077
+HGNC:15868,gene,ABHD12,abhydrolase domain containing 12,26090,ENSG00000100997
+HGNC:19837,gene,ABHD12B,abhydrolase domain containing 12B,145447,ENSG00000131969
+HGNC:20293,gene,ABHD13,abhydrolase domain containing 13,84945,ENSG00000139826
+HGNC:24538,gene,ABHD14A,abhydrolase domain containing 14A,25864,ENSG00000248487
+HGNC:28235,gene,ABHD14B,abhydrolase domain containing 14B,84836,ENSG00000114779
+HGNC:26971,gene,ABHD15,abhydrolase domain containing 15,116236,ENSG00000168792
+HGNC:13921,gene,ABHD16A,abhydrolase domain containing 16A,7920,ENSG00000204427
+HGNC:16128,gene,ABHD16B,abhydrolase domain containing 16B,140701,ENSG00000183260
+HGNC:28756,gene,ABHD17A,abhydrolase domain containing 17A,81926,ENSG00000129968
+HGNC:24278,gene,ABHD17B,abhydrolase domain containing 17B,51104,ENSG00000107362
+HGNC:26925,gene,ABHD17C,abhydrolase domain containing 17C,58489,ENSG00000136379
+HGNC:26111,gene,ABHD18,abhydrolase domain containing 18,80167,ENSG00000164074
+HGNC:11320,gene,ABI1,abl interactor 1,10006,ENSG00000136754
+HGNC:24011,gene,ABI2,abl interactor 2,10152,ENSG00000138443
+HGNC:29859,gene,ABI3,ABI family member 3,51225,ENSG00000108798

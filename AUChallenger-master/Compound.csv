@@ -1,0 +1,100 @@
+ID,COMPOUND_ID,TYPE,SOURCE,NAME
+16416,10837,SYNONYM,ChEBI,[(carbamoylamino)methyl]carbamic acid
+16667,11088,SYNONYM,ChEBI,6-hydroxy-3-oxo-alpha-ionone
+17788,12209,SYNONYM,ChEBI,hydrogen pimelate
+17994,12415,SYNONYM,ChEBI,(S)-beta-methylindolepyruvic acid
+18121,12542,SYNONYM,ChEBI,N-acetyl-alpha-D-glucosamine 1-(dihydrogen phosphate)
+18874,13295,SYNONYM,ChEBI,Koenzym A
+18877,13298,SYNONYM,ChEBI,CoASH
+19005,13426,SYNONYM,ChEBI,Nitril
+19061,13482,SYNONYM,ChEBI,UDP-MurNAc-L-Ala-D-Glu
+19163,13584,SYNONYM,ChEBI,16alpha-hydroxy steroids
+19251,13672,SYNONYM,ChEBI,polynucleotides
+19757,14178,SYNONYM,ChEBI,diphospho-1D-myo-inositol tetrakisphosphates
+20531,14952,SYNONYM,ChEBI,protein disulfides
+20532,14953,SYNONYM,ChEBI,protein dithiols
+20612,15033,SYNONYM,ChEBI,thioredoxins
+20676,15097,SYNONYM,ChEBI,Spermidin
+20921,2363,SYNONYM,ChEBI,"(1R,4aR,10aR)-1,4a-dimethyl-7-(propan-2-yl)-1,2,3,4,4a,5,6,10,10a-decahydrophenanthrene-1-carboxylic acid"
+20942,2510,SYNONYM,ChEBI,(2S)-2-amino-5-{2-[4-(hydroxymethyl)phenyl]hydrazino}-5-oxopentanoic acid
+20959,2618,SYNONYM,ChEBI,1-adamantylamine
+20963,2618,SYNONYM,ChEBI,1-aminoadamantane
+20972,10100,SYNONYM,ChEBI,4-(5-cyclopentyloxycarbonylamino-1-methyl-1H-indol-3-ylmethyl)-3-methoxy-N-o-tolylsulfonylbenzamide
+20988,2388,SYNONYM,ChEBI,"5-acetylamino-1,3,4-thiadiazole-2-sulfonamide"
+21009,2404,SYNONYM,ChEBI,"4-hydroxy-3,5-dimethoxyacetophenone"
+21016,2412,SYNONYM,ChEBI,N-(4-guanidinobutyl)acetamide
+21017,2412,SYNONYM,ChEBI,[4-(acetylamino)butyl]guanidine
+21018,2412,SYNONYM,ChEBI,N-(4-{[amino(imino)methyl]amino}butyl)acetamide
+21034,2419,SYNONYM,ChEBI,HCCH
+21047,5583,SYNONYM,ChEBI,N'-ethylidene-N-methylformic hydrazide
+21049,5583,SYNONYM,ChEBI,formic acid 2-ethylidene-1-methylhydrazide
+21054,15363,SYNONYM,ChEBI,1-acetyl-1H-indol-3-ol
+21090,2446,SYNONYM,ChEBI,ActD
+21091,2446,SYNONYM,ChEBI,actinomycin C1
+21137,15399,SYNONYM,ChEBI,(S)-5-isopropenyl-2-methylcyclohex-2-en-1-one
+21138,15400,SYNONYM,ChEBI,(R)-5-isopropenyl-2-methylcyclohex-2-en-1-one
+21181,10790,SYNONYM,ChEBI,NH2-CO-NH-CH2-NH-CO-NH2
+21247,11010,SYNONYM,ChEBI,(R)-3-phenyllactyl-CoA
+21250,11814,SYNONYM,ChEBI,(4-carboxy-3-hydroxy-3-methylbutanoyl)-coenzyme A
+21276,15485,SYNONYM,ChEBI,S-(6-carboxy-3-hydroxyhexanoyl)-coenzyme A
+21280,15490,SYNONYM,ChEBI,S-(5-carboxy-3-oxopentanoyl)-coenzyme A
+21299,15506,SYNONYM,ChEBI,S-(7-methyl-3-oxooctanoyl)-coenzyme A
+21311,12755,SYNONYM,ChEBI,S-(indol-3-ylacetyl)-coenzyme A
+21315,15511,SYNONYM,ChEBI,trans-4-hydroxy-3-methoxycinnamoyl-CoA
+21316,14261,SYNONYM,ChEBI,4-hydroxy-3-methoxycinnamoyl-CoA
+21317,15512,SYNONYM,ChEBI,S-(L-3-aminobutanoyl)-coenzyme A
+21320,15515,SYNONYM,ChEBI,S-benzoyl-coenzyme A
+21323,15517,SYNONYM,ChEBI,butanoyl-coenzyme A
+21327,11614,SYNONYM,ChEBI,2-methylcrotonoyl-CoA
+21330,15346,SYNONYM,ChEBI,HSCoA
+21331,15346,SYNONYM,ChEBI,"[(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-3-(phosphonooxy)tetrahydrofuran-2-yl]methyl (3R)-3-hydroxy-4-({3-oxo-3-[(2-sulfanylethyl)amino]propyl}amino)-2,2-dimethyl-4-oxobutyl dihydrogen diphosphate"
+21347,15536,SYNONYM,ChEBI,valeryl-CoA
+21353,15540,SYNONYM,ChEBI,"[(2E)-3-(4-hydroxy-3,5-dimethoxyphenyl)acroyl]-CoA"
+21378,15544,SYNONYM,ChEBI,PGE1
+21379,15545,SYNONYM,ChEBI,PGA1
+21380,15546,SYNONYM,ChEBI,PGC1
+21382,15552,SYNONYM,ChEBI,PGI2
+21387,15553,SYNONYM,ChEBI,PGF2alpha
+21388,15554,SYNONYM,ChEBI,PGH2
+21389,15555,SYNONYM,ChEBI,PGD2
+21394,15560,SYNONYM,ChEBI,OPDA
+21397,15562,SYNONYM,ChEBI,D-threo-isocitrate
+21405,15569,SYNONYM,ChEBI,[(aminocarbonyl)amino]methylcarbamic acid
+21407,15569,SYNONYM,ChEBI,ureidomethylcarbamic acid
+21409,15570,SYNONYM,ChEBI,D-alpha-aminopropionic acid
+21414,15572,SYNONYM,ChEBI,"adenosine 5'-(2,3-dihydroxybenzoyl hydrogen phosphate)"
+21420,15575,SYNONYM,ChEBI,"(20S,22S,25S)-22,25-epoxy-26-hydroxyfurost-5-en-3beta-yl beta-D-glucopyranoside"
+21422,15576,SYNONYM,ChEBI,"(3beta,9beta,24R)-24-methyl-9,19-cyclolanost-25-en-3-ol"
+21423,15576,SYNONYM,ChEBI,(24R)-24-methylcycloart-25-en-3beta-ol
+21432,15584,SYNONYM,ChEBI,2-hydroxy-2-methylsuccinic acid
+21433,29003,SYNONYM,ChEBI,(2S)-2-hydroxy-2-methylsuccinic acid
+21434,15586,SYNONYM,ChEBI,(2R)-2-hydroxy-2-methylsuccinic acid
+21448,15594,SYNONYM,ChEBI,2-hydroxy-3-propylsuccinate
+21460,15600,SYNONYM,ChEBI,"(2R,3S)-2-(3,4-dihydroxyphenyl)chromane-3,5,7-triol"
+21465,15601,SYNONYM,ChEBI,"(2R,4S)-2,4-diaminovalerate"
+21467,15602,SYNONYM,ChEBI,(2S)-2-{[(1R)-1-carboxyethyl]amino}valerate
+21469,15604,SYNONYM,ChEBI,(3R)-3-Amino-4-methylvaleric acid
+21470,15605,SYNONYM,ChEBI,(2S)-2-phenylchroman-4-ol
+21482,15614,SYNONYM,ChEBI,(S)-3-methyl-2-oxovaleric acid
+21508,15633,SYNONYM,ChEBI,"N-(7,8-dihydropteroyl)-L-glutamic acid"
+21511,15634,SYNONYM,ChEBI,"N-(10-formyl-7,8-dihydropteroyl)-L-glutamate"
+21512,15634,SYNONYM,ChEBI,"10-formyl-7,8-dihydrofolate"
+21514,5140,SYNONYM,ChEBI,N-pteroyl-L-glutamic acid
+21516,15635,SYNONYM,ChEBI,"N-(5,6,7,8-tetrahydropteroyl)-L-glutamic acid"
+21517,15635,SYNONYM,ChEBI,"(6S)-5,6,7,8-tetrahydropteroylglutamate"
+21519,15636,SYNONYM,ChEBI,"N-(5,10-methylene-5,6,7,8-tetrahydropteroyl)-L-glutamate"
+21521,15637,SYNONYM,ChEBI,"N-(10-formyl-5,6,7,8-tetrahydropteroyl)-L-glutamic acid"
+21524,15639,SYNONYM,ChEBI,"N-(5-formimidoyl-5,6,7,8-tetrahydropteroyl)-L-glutamic acid"
+21525,15639,SYNONYM,ChEBI,"[(6S)-5-formimidoyl-5,6,7,8-tetrahydropteroyl]glutamate"
+21527,15640,SYNONYM,ChEBI,"N-(5-formyl-5,6,7,8-tetrahydropteroyl)-L-glutamic acid"
+21528,15640,SYNONYM,ChEBI,"(5-formyl-5,6,7,8-tetrahydropteroyl)glutamate"
+21530,15641,SYNONYM,ChEBI,"N-(5-methyl-5,6,7,8-tetrahydropteroyl)-L-glutamic acid"
+21532,15641,SYNONYM,ChEBI,"[(6S)-5-methyl-5,6,7,8-tetrahydropteroyl]glutamate"
+21543,15645,SYNONYM,ChEBI,(3S)-6-hydroxy-8-methyl-8-azabicyclo[3.2.1]oct-3-yl tropate
+21593,18188,SYNONYM,ChEBI,(S)-beta-aminoisobutyrate
+21622,17656,SYNONYM,ChEBI,(2R)-2-hydroxy-2-phenylacetic acid
+21684,16189,SYNONYM,ChEBI,sulphate
+21822,17110,SYNONYM,ChEBI,1-carbamimidamido-1-deoxy-scyllo-inositol
+21823,17110,SYNONYM,ChEBI,1-carbamimidoylamino-1-deoxy-scyllo-inositol
+21910,16776,SYNONYM,ChEBI,"methyl (5alpha,12beta,19alpha)-2,3,6,7-tetradehydroaspidospermidine-3-carboxylate"
+21930,18328,SYNONYM,ChEBI,13alpha-hydroxyspartein-2-one

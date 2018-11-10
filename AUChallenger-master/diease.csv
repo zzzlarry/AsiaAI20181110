@@ -1,0 +1,108 @@
+DescriptorUI,type,String,TreeNumber,Annotation
+D000067398,diease,War-Related Injuries,C26.946,null
+D000067399,diease,Abnormal Involuntary Movement Scale,E01.370.600.550.162,null
+D000067401,diease,Blood Alcohol Content,D02.033.375.135,null
+D000067404,diease,Social Communication Disorder,F03.625.374.250,null
+D000067408,diease,Legal Services,I01.880.604.583.482,null
+D000067448,diease,Defamation,I01.198.240.240,null
+D000067449,diease,Anger Management Therapy,F04.754.137.087,null
+D000067450,diease,"Psychology, Sports",F04.096.628.914,null
+D000067453,diease,War Exposure,I01.880.735.950.500.951,null
+D000067454,diease,Childhood-Onset Fluency Disorder,F03.625.374.125,null
+D000067455,diease,No-Show Patients,F01.100.150.750.500.600.750,null
+D000067470,diease,Cellular Reprogramming Techniques,E05.200.500.380,null
+D000067489,diease,Metacognition,F02.463.188.756,null
+D000067490,diease,Prescription Drug Overuse,E02.319.306.500.750,null
+D000067491,diease,"Near Miss, Healthcare",E02.319.529.750,null
+D000067492,diease,RNAi Therapeutics,E02.095.301.250,null
+D000067493,diease,Dynamic Light Scattering,E05.196.822.325,null
+D000067494,diease,"Time Out, Healthcare",N04.761.700.635,null
+D000067495,diease,Healthcare Failure Mode and Effect Analysis,E05.318.740.600.800.715.500,null
+D000067496,diease,Spirit Possession,K01.844.619.500,null
+D000067498,diease,"Crew Resource Management, Healthcare",N04.590.254,null
+D000067508,diease,Computer Heuristics,L01.224.050.375.095,null
+D000067528,diease,Ataxins,D12.776.631.069,null
+D000067531,diease,Alarmins,D23.035,null
+D000067548,diease,Dermal Fillers,D27.720.102.461,null
+D000067549,diease,Action Spectrum,E05.196.867.826.150,null
+D000067551,diease,Diplomacy,F01.829.316.171,null
+D000067552,diease,Mutation Accumulation,G05.365.590.594,null
+D000067556,diease,Internal Ribosome Entry Sites,D13.444.735.790.878.942.250,null
+D000067558,diease,Biological Mimicry,G16.012.750,null
+D000067559,diease,Specific Learning Disorder,F03.625.562.700,null
+D000067561,diease,Potentially Inappropriate Medication List,N04.761.700.615,null
+D000067562,diease,Late Onset Disorders,C23.550.291.883,null
+D000067563,diease,Phakopsora pachyrhizi,B01.300.179.110,null
+D000067565,diease,Farmers,M01.526.390,null
+D000067568,diease,Culturally Appropriate Technology,J01.897.052,null
+D000067570,diease,Social Learning,F02.784.629.529.663,null
+D000067571,diease,Financial Statements,N03.219.463.030.140,null
+D000067572,diease,Miners,M01.526.693,null
+D000067573,diease,Chronopharmacokinetics,G07.690.725.249,null
+D000067575,diease,"Administrative Claims, Healthcare",N04.452.859.564.137,null
+D000067576,diease,Child Health,N01.400.225,null
+D000067596,diease,Interleukin-33,D12.644.276.374.465.850,null
+D000067616,diease,S100A12 Protein,D12.776.157.125.750.875,null
+D000067617,diease,Telopodes,A11.284.180.900,null
+D000067636,diease,Drosophila simulans,B01.050.500.131.617.720.500.500.750.310.250.750,null
+D000067656,diease,Optimism,F01.100.787,null
+D000067657,diease,Pessimism,F01.100.893,null
+D000067696,diease,Ataxin-1,D12.776.631.069.500,null
+D000067697,diease,Adolescent Health,N01.400.075,null
+D000067698,diease,Ataxin-2,D12.776.157.725.452.125,null
+D000067699,diease,Ataxin-3,D08.811.037.250,null
+D000067716,diease,Point-of-Care Testing,N04.590.874.500,null
+D000067719,diease,Ataxin-7,D12.776.631.069.901,null
+D000067736,diease,Ataxin-10,D12.776.631.069.950,null
+D000067756,diease,Glucagon-Like Peptide Receptors,D12.776.543.750.695.021,null
+D000067757,diease,Glucagon-Like Peptide-1 Receptor,D12.776.543.750.695.021.500,null
+D000067758,diease,Glucagon-Like Peptide-2 Receptor,D12.776.543.750.695.021.600,null
+D000067759,diease,Receptor for Advanced Glycation End Products,D12.776.543.750.615,null
+D000067776,diease,RNA Recognition Motif Proteins,D12.776.157.725.813,null
+D000067777,diease,ELAV-Like Protein 2,D12.776.157.725.813.500.500,null
+D000067778,diease,ELAV-Like Protein 3,D12.776.157.725.813.500.750,null
+D000067779,diease,ELAV-Like Protein 4,D12.776.157.725.813.500.875,null
+D000067780,diease,ELAV-Like Protein 1,D12.776.157.725.813.500.250,null
+D000067796,diease,Whey,G07.203.100.700.750,null
+D000067816,diease,Whey Proteins,D12.776.256.626.816,null
+D000067836,diease,Hoarding Disorder,F03.080.600.250,differentiate from HOARDING
+,,,,  
+D000067856,diease,Poly(ADP-ribose) Polymerase Inhibitors,D27.505.519.389.739,null
+D000067877,diease,Autism Spectrum Disorder,F03.625.164.113,null
+D000067878,diease,CELF Proteins,D12.776.157.725.813.250,null
+D000067879,diease,CELF1 Protein,D12.776.157.725.813.250.500,null
+D000067896,diease,Industrial Development,I01.261.262.500,null
+D000067917,diease,Cloud Computing,L01.224.097,null
+D000067936,diease,Natural Resources,G16.500.275.553,coordinate with  specific natural resource if pertinent
+,,,,  
+D000067940,diease,Glycemic Load,G07.203.650.660.750,GLYCEMIC INDEX is also available
+,,,,  
+D000067956,diease,Adenylyl Cyclase Inhibitors,D27.505.519.389.108,null
+D000067996,diease,RAW 264.7 Cells,A11.251.210.172.875,almost always NIM with no subheadings; check ANIMALS and MICE
+,,,,  
+D000068,diease,Accreditation,N03.706.110.070,by the profession; do not confuse with LICENSURE (by the state)
+,,,,  
+D000068016,diease,Clostridiales,B03.353.625,null
+D000068036,diease,Graphic Novels,V02.503,This heading is used as a Publication Type.  INDEXER: Do not use
+,,,,  
+D000068037,diease,South Sudan,Z01.058.290.120.745,null
+D000068079,diease,Motor Disorders,F03.608,null
+D000068097,diease,Maternal Health,N01.400.900.500,null
+D000068098,diease,Seed Bank,N02.278.065.650,null
+D000068099,diease,Trauma and Stressor Related Disorders,F03.950,null
+D000068101,diease,Maternal-Child Health Services,N02.421.143.130.660,null
+D000068103,diease,Serine-Arginine Splicing Factors,D12.776.157.725.829.500,null
+D000068104,diease,Infant Health,N01.400.388,null
+D000068105,diease,Bipolar and Related Disorders,F03.084,null
+D000068116,diease,Gender Dysphoria,F03.835.550,null
+D000068156,diease,Formative Feedback,F02.784.629.529.223,null
+D000068180,diease,Aripiprazole,D03.383.606.170,null
+D000068181,diease,Prunus dulcis,B01.650.940.800.575.912.250.859.937.500.625.500,null
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
